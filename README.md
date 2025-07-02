@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Webcam-Controlled ESP32 Robot Car 🚗✋
 
 This project enables real-time control of an ESP32-based robot car using hand gestures detected through a webcam. The system uses computer vision for gesture recognition and WiFi communication to send commands to the robot.
@@ -129,3 +130,7 @@ Contributions are welcome! Please open an issue or pull request for any improvem
 ---
 
 Enjoy controlling your robot with gestures! 🎮🤖
+=======
+# WebCam-controlled_-ESP32-car
+ESP32 robot car controlled by hand gestures via webcam
+>>>>>>> 8edde76f703fa697abe2456c3376760619a6b7c0
